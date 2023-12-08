@@ -1,0 +1,22 @@
+''' 
+python and javascript
+data structure 
+1.array
+2.string
+3.hashtable (dictionary)
+4.set (example(1,2,3))
+5.linkedlist - singly,douhbly
+6.trie
+7.trees
+8.graphes
+9.stack
+10.queue
+
+algorihtm
+1. recursion
+2. binary search
+3. linear search
+4. bfs + dfs
+5. dynamic programming
+6. backtracking
+'''
